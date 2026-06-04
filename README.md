@@ -8,17 +8,6 @@ This project focuses on developing a wearable device capable of recognizing huma
 
 ## Project Structure
 
-- **hardware/** - KiCad schematics and PCB designs
-- **firmware/** - Embedded software for the wearable device
-- **software/** - Data processing and AI models
-
-## Getting Started
-
-### Prerequisites
-
-- KiCad (for viewing and editing schematics/PCB)
-- Python 3.8+
-- Required Python packages (see requirements.txt)
 
 ### Installation
 
@@ -26,9 +15,6 @@ This project focuses on developing a wearable device capable of recognizing huma
 # Clone the repository
 git clone https://github.com/jls-ml/IA-HAR-wearable.git
 cd IA-HAR-wearable
-
-# Install dependencies
-pip install -r requirements.txt
 ```
 
 ## Hardware
@@ -44,7 +30,7 @@ Feel free to submit issues and enhancement requests!
 
 ## License
 
-[Add your license here]
+GNU General Public License v3.0
 
 ## Author
 
